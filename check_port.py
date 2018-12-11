@@ -11,7 +11,7 @@ ports_not_check = []
 
 ports_mapping = {
     'sshd': [22, ],
-    'nginx': [80, 443],
+    'nginx': [80, 443, ],
     'mysql': [3306, ],
 }
 
