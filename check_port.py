@@ -7,7 +7,7 @@ import socket
 
 timeout = 2
 
-ports_not_check = [80, 443]
+ports_not_check = []
 
 ports_mapping = {
     'sshd': [22, ],
